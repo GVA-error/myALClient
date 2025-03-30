@@ -23,3 +23,12 @@ Developed for people who don't watch ungoings and have big "plan to watch" list 
 - Base: PostgreSQL/JSon;
 #### List
 Java, RabbitMQ, PostgreSQL, JavaFX, Java Android SDK.
+
+#Plan
+- develop base desctop read only client
+- develop Java, RabbitMQ, PostgreSQL server
+- implement PC client
+- transfer back system in some cloud
+- make high load testing
+- implement adroid client
+- release
