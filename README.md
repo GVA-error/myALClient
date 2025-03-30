@@ -31,7 +31,7 @@ Java, RabbitMQ, PostgreSQL + Citus, JavaFX, Java Android SDK.
 - transfer back system in some cloud
 - make high load testing
 - implement adroid client
-- autorize on myanimelist
+- autorize throught myanimelist
 - release 1.0 alpha
 
 # App Name ideas and description
