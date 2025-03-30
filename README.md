@@ -1,6 +1,7 @@
 # myALClient
 Parce your myanimelist.net/animelist/. Cache it offline and allow conviniently shows it.
 Allow you form your own anime list playlists and save it in local base or json.
+Developed for people who don't watch ungoings and have big "plan to watch" list on myanimelist.
 
 # Feature list
 - Initialy we have playlist from all unwatched anime sorted by avg score.
@@ -20,3 +21,5 @@ Allow you form your own anime list playlists and save it in local base or json.
 #### local_server 
 - Logic: Java Spring;
 - Base: PostgreSQL/JSon;
+#### List
+Java, RabbitMQ, PostgreSQL, JavaFX, Java Android SDK.
