@@ -31,3 +31,4 @@ Java, RabbitMQ, PostgreSQL, JavaFX, Java Android SDK.
 
 # App Name Ideas
 - myAnimeList_PlayList (Allow you to form an anime play list from your myAnimeList.)
+- lightAnimePlayList (Allow you easey to form an anime play list from your unwatched anime in myAnimeList)
