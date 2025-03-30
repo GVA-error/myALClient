@@ -22,7 +22,7 @@ Developed for people who don't watch ungoings and have big "plan to watch" list 
 - Logic: Java Spring;
 - Base: PostgreSQL/JSon;
 #### List
-Java, RabbitMQ, PostgreSQL, JavaFX, Java Android SDK.
+Java, RabbitMQ, PostgreSQL + Citus, JavaFX, Java Android SDK.
 
 #Plan
 - develop base desctop read only client
