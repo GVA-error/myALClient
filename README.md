@@ -15,7 +15,7 @@ Java, RabbitMQ, PostgreSQL, JavaFX, Java Android SDK.
 - Develop a desktop read-only client.
 - Develop Java, RabbitMQ, PostgreSQL shards server
 - Implement PC client 
-- Transfer back system in some cloud
+- Transfer back-ends in some cloud
 - Make high-load testing
 - Implement an Android client.
 - Authorize through myanimelist
