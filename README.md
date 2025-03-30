@@ -36,8 +36,11 @@ Java, RabbitMQ, PostgreSQL + Citus, JavaFX, Java Android SDK.
 - release 1.0 alpha
 
 # After release plan
-- predict season finish date
-- notify about release if you have no "watching"
+- predict season finish date.
+- option: set "watching" to your first in play list anime.
+- option: set your myAnimeList avatar associated with your current anime
+- option: notify about release if you have no "watching".
+- option: notify your next/today watch anime.
 - more convinient filters and featurs based on comunity feedback 
 
 # App Name ideas and description
