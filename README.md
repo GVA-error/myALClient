@@ -33,3 +33,6 @@ Java, RabbitMQ, PostgreSQL + Citus, JavaFX, Java Android SDK.
 - implement adroid client
 - autorize on myanimelist
 - release 1.0 alpha
+
+# App Name ideas and description
+- myAnimeList_PlayList (Allow you to form anime play list from your myAnimeList.)
