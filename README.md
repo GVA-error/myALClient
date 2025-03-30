@@ -11,11 +11,12 @@ Allow you form your own anime list playlists and save it in local base or json.
 - You can change anime position in list.
 - You can use JSon or Postgres to save you list.
 - If base is not avalible, you work with local jSon
-- Ungoing sorting. Allow you hide ungoing from list.
+- Ongoing hiding. Allow you to hide ongoing from list.
 
 # Technical details
 #### client
-JavaFX
+- JavaFX for PC
+- Android SDK for Android
 #### local_server 
 - Logic: Java Spring;
 - Base: PostgreSQL/JSon;
