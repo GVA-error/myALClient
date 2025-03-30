@@ -4,6 +4,8 @@ Allow you form your own anime list playlists and save it in local base or json.
 Developed for people who don't watch ungoings and have big "plan to watch" list on myanimelist. 
 
 # Feature list
+- Dynamic ongoing hiding. Allow you to hide ongoing from list.
+- 18+ content hide/show.
 - Initialy we have playlist from all unwatched anime sorted by avg score.
 - All watched anime in watched list.
 - You can delete from play list.
@@ -12,7 +14,6 @@ Developed for people who don't watch ungoings and have big "plan to watch" list 
 - You can change anime position in list.
 - You can use JSon or Postgres to save you list.
 - If base is not avalible, you work with local jSon
-- Ongoing hiding. Allow you to hide ongoing from list.
 
 # Technical details
 #### client
@@ -33,6 +34,11 @@ Java, RabbitMQ, PostgreSQL + Citus, JavaFX, Java Android SDK.
 - implement adroid client
 - autorize throught myanimelist
 - release 1.0 alpha
+
+# After release plan
+- predict season finish date
+- notify about release if you have no "watching"
+- more convinient filters and featurs based on comunity feedback 
 
 # App Name ideas and description
 - myAnimeList_PlayList (Allow you to form anime play list from your myAnimeList.)
