@@ -1,33 +1,20 @@
 # myALClient
 Parce your myanimelist.net/animelist/. Cache it offline and allow conviniently shows it.
-Allow you form your own anime list playlists and save it in local base or json.
+Allow you to form your own anime playlists and save it in local base or json.
 Developed for people who don't watch ungoings and have big "plan to watch" list on myanimelist. 
 
 # Feature list
-- Dynamic ongoing hiding. Allow you to hide ongoing from list.
+- Dynamic ongoing hiding. Allow you to hide ongoing from list not deleting.
 - 18+ content hide/show.
-- Initialy we have playlist from all unwatched anime sorted by avg score.
-- All watched anime in watched list.
-- You can delete from play list.
-- Deleted anime from play list contains in backet list.
-- You can replenish playlist from bucket or unwatched. It will be deleted from bucket than.
-- You can change anime position in list.
-- You can use JSon or Postgres to save you list.
-- If base is not avalible, you work with local jSon
+- You can use it offline or online. All lists avalible in all your devices.
+- and many other convinient functions.
 
-# Technical details
-#### client
-- JavaFX for PC
-- Android SDK for Android
-#### local_server 
-- Logic: Java Spring;
-- Base: PostgreSQL/JSon;
-#### List
+# Used technologies list
 Java, RabbitMQ, PostgreSQL + Citus, JavaFX, Java Android SDK.
 
 # Plan
 - develop base desctop read only client
-- develop Java, RabbitMQ, PostgreSQL server
+- develop Java, RabbitMQ, PostgreSQL shards server
 - implement PC client 
 - transfer back system in some cloud
 - make high load testing
@@ -38,9 +25,9 @@ Java, RabbitMQ, PostgreSQL + Citus, JavaFX, Java Android SDK.
 # After release plan
 - predict season finish date.
 - option: set "watching" to your first in play list anime.
-- option: set your myAnimeList avatar associated with your current anime
+- option: set "finished"/"skiped" to your anime.
 - option: notify about release if you have no "watching".
-- option: notify your next/today watch anime.
+- option: notify about ongoing status changed.
 - more convinient filters and featurs based on comunity feedback 
 
 # App Name ideas and description
