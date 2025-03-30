@@ -9,7 +9,7 @@ Initially developed for people who don't watch ongoings and have a big list of "
 - and many other convenient functions.
 
 # Used technologies list
-Java, RabbitMQ, PostgreSQL + Citus, JavaFX, Java Android SDK.
+Java, RabbitMQ, PostgreSQL, JavaFX, Java Android SDK.
 
 # Plan
 - Develop a desktop read-only client.
